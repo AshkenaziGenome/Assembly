@@ -6,4 +6,4 @@
 
 [CCB](ftp://ftp.ccb.jhu.edu/pub/dpuiu/Homo_sapiens/Ash1.7/Ash1.7.fa.gz)
 
-
+<a href="ftp://ftp.ccb.jhu.edu/pub/dpuiu/Homo_sapiens/Ash1.7/Ash1.7.fa.gz">CCB</a>
