@@ -10,3 +10,7 @@ This is an initial version described in:
 This version is available here:
 
 * Ash1 v1.7: [AWS](https://ashkenazi-genome.s3.us-east-2.amazonaws.com/Assembly/index.html) or ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v1.7/Assembly/
+
+# Version 2.0
+This is an updated version.  It is much more contiguous, 
+
