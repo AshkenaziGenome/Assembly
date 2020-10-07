@@ -12,7 +12,7 @@ This version is available here:
 * Ash1 v1.7: [AWS](https://ashkenazi-genome.s3.us-east-2.amazonaws.com/Assembly/index.html) or ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v1.7/Assembly/
 
 # Version 2.0
-This is an updated version.  It is much more contiguous, containing about half as many contigs on the chromosomes.  It fixes several Mbp of spuriously duplicated sequence on chr9 and chr15 present in v1.7.  The new version is based on reconciliation of assemblies produced from PacBio Hifi data with HiFiasm (https://arxiv.org/abs/2008.01237), along with a MaSuRCA assembly of Nanopore and Illumina data.  We filled gaps in chr8 and chrX using sequence from T2T consortium assemblies of CHM13 chromsomes X and 8 (https://www.nature.com/articles/s41586-020-2547-7_reference.pdf?proof=t, https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full.pdf). In the other chromosomes gaps were filled with sequence from GRCh38.p12.  The filled-in sequence that did not originale from HG002 individual is in lowercase letters. Here is the table comparing sizes and # of contigs in v1.7 and v2.0:
+This version has been built using the same software that has been used for v1.7 and described in the manuscript.  This assembly is much more contiguous, containing only 660 contigs on the chromosomes, compared to 1538 in v1.7.  It fixes several Mbp of spuriously duplicated sequence on chr9 and chr15 in v1.7.  The new version is based on reconciliation of assemblies produced from PacBio Hifi data with HiFiasm (https://arxiv.org/abs/2008.01237), along with a MaSuRCA assembly of Nanopore and Illumina data.  We filled gaps in chr8 and chrX using sequence from T2T consortium assemblies of CHM13 chromsomes X and 8 (https://www.nature.com/articles/s41586-020-2547-7_reference.pdf?proof=t, https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full.pdf). In the other chromosomes gaps were filled with sequence from GRCh38.p12.  The filled-in sequence that did not originale from HG002 individual is in lowercase letters. Here is the table comparing sizes and # of contigs in v1.7 and v2.0:
 
 |chrom|v1.7 # of contigs|v1.7 total size|v2.0 # of contigs|v2.0 total size|
 |----|----|----|----|----|
@@ -41,4 +41,6 @@ This is an updated version.  It is much more contiguous, containing about half a
 |chrX|38|153528413|1|154267970|
 |chrY|33|27085372|27|27625515|
 |Total|1538|2973118650|660|2959197230| 
+
+This version, along with an updated annotation will be available for download shortly.
 
