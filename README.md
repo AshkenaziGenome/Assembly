@@ -1,6 +1,6 @@
-# Ashkenazi Genome Assemblies
-This repository contains links to the genome data from the Ashkenazy reference genome Ash1 assembly and annotation.  Ash1 is an assembly of an individual from Personal Genome Project codename HG002.
-This repository has the version 1.7 assembly and all subsequent versions.
+# Ashkenazi Genome Assembliy
+This repository contains links to the Ashkenazi reference genome Ash1 assembly and annotation.  Ash1 is an assembly of an individual from Personal Genome Project codename HG002.
+This repository has the initial version 1.7 assembly and all subsequent versions.
 
 # Version 1.7
 This is an initial version described in:
