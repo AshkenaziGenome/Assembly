@@ -1,4 +1,4 @@
-# Ashkenazi Genome Assembliy
+# Ashkenazi Genome Assembly
 This repository contains links to the Ashkenazi reference genome Ash1 assembly and annotation.  Ash1 is an assembly of an individual from Personal Genome Project codename HG002.
 This repository has the initial version 1.7 assembly and all subsequent versions.
 
@@ -7,9 +7,10 @@ This is an initial version described in:
 
 `Shumate A, Zimin AV, Sherman RM, Puiu D, Wagner JM, Olson ND, Pertea M, Salit ML, Zook JM, Salzberg SL. Assembly and annotation of an Ashkenazi human reference genome. Genome biology. 2020 Dec;21(1):1-8.`
 
-This version is available here:
+Version 1.7 is available here:
 
-* Ash1 v1.7: [AWS](https://ashkenazi-genome.s3.us-east-2.amazonaws.com/Assembly/index.html) or ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v1.7/Assembly/
+* https://ashkenazi-genome.s3.us-east-2.amazonaws.com/Assembly/index.html
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v1.7/Assembly/
 
 # Version 2.0
 This version has been built using the same software that has been used for v1.7 and described in the manuscript.  This assembly is much more contiguous, containing only 660 contigs on the chromosomes, compared to 1538 in v1.7.  It fixes several Mbp of spuriously duplicated sequence on chr9 and chr15 in v1.7.  The new version is based on reconciliation of assemblies produced from PacBio Hifi data with HiFiasm (https://arxiv.org/abs/2008.01237), along with a MaSuRCA assembly of Nanopore and Illumina data.  We filled gaps in chr8 and chrX using sequence from T2T consortium assemblies of CHM13 chromsomes X and 8 (https://www.nature.com/articles/s41586-020-2547-7_reference.pdf?proof=t, https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full.pdf). Where possible, we filled gaps in the other chromosomes with sequence from GRCh38.p12, as described in the Ash1 manuscript.  The filled-in sequence that did not originale from HG002 individual is in lowercase letters. Here is the table comparing total size and number of contigs for each chromosome in v1.7 and v2.0:
