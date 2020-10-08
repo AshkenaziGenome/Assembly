@@ -43,5 +43,8 @@ This assembly is much more contiguous, containing only 660 contigs on the chromo
 |chrY|50|23636355|33|27085372|27|27625515|
 |Total|827|2923716080|1538|2973118650|660|2959197230| 
 
-This version, along with an updated annotation will be available for download shortly.
+The sequence for the version 2.0 is available at this location:
+
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v2.0/Assembly/Ash1_v2.0.fa.gz
+
 
