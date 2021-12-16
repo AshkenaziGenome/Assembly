@@ -5,7 +5,9 @@ This repository has the initial version 1.7 assembly and all subsequent versions
 # Version 1.7
 This is an initial version described in:
 
-`Shumate A, Zimin AV, Sherman RM, Puiu D, Wagner JM, Olson ND, Pertea M, Salit ML, Zook JM, Salzberg SL. Assembly and annotation of an Ashkenazi human reference genome. Genome biology. 2020 Dec;21(1):1-8.`  available online at https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02047-7
+`Shumate A, Zimin AV, Sherman RM, Puiu D, Wagner JM, Olson ND, Pertea M, Salit ML, Zook JM, Salzberg SL. Assembly and annotation of an Ashkenazi human reference genome. Genome biology. 2020 Dec;21(1):1-8.` 
+
+The article is available online at https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02047-7
 
 The sequence for the version 1.7 is available at these locations:
 
