@@ -50,4 +50,39 @@ The sequence for the version 2.0 is available at this location:
 
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v2.0/Assembly/Ash1_v2.0.fa.gz
 
+# Version 2.2
 
+This assembly contains the gapless chromosomes
+
+|chromosome|v2.2 # of contigs|v2.2 size|
+|----|----|----|
+|chr1|1|249932541|
+|chr2|1|242681487|
+|chr3|1|200930272|
+|chr4|1|193567215|
+|chr5|1|181993881|
+|chr6|1|172048152|
+|chr7|1|160402684|
+|chr8|1|146266741|
+|chr9|1|150154455|
+|chr10|1|134598001|
+|chr11|1|134959473|
+|chr12|1|133349155|
+|chr13|1|113854012|
+|chr14|1|101252837|
+|chr15|1|100063229|
+|chr16|1|96402991|
+|chr17|1|83977505|
+|chr18|1|80314204|
+|chr19|1|61576862|
+|chr20|1|66010062|
+|chr21|1|44899981|
+|chr22|1|51454416|
+|chrX|1|154349815|
+|chrY|1|62460029|
+|chrM|1|16570|
+|Total|25|3117516570|
+
+The sequence for the version 2.2 is available at this location:
+
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Ash1/v2.2/Assembly/Ash1_v2.2.fa.gz
